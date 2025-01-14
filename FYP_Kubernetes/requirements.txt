@@ -44,6 +44,12 @@ referencing==0.35.1
 requests==2.32.3
 rich==13.9.4
 rpds-py==0.22.3
+scikit-base==0.4.3
+scikit-fuzzy==0.4.2
+scikit-image==0.22.0
+scikit-learn==1.5.1
+scipy==1.14.1
+seaborn==0.13.2
 six==1.17.0
 smmap==5.0.1
 streamlit==1.41.1
