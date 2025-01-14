@@ -6,7 +6,7 @@ import os
 import plotly.graph_objs as go
 
 # Base directory for the dataset and models
-DATASET_DIR = './FYP_Kubernetes/dataset/cleaned_dataset/'
+DATASET_DIR = './FYP_Kubernetes/Dataset/cleaned_dataset/'
 MODEL_DIR = './FYP_Kubernetes/Isolation_Forest_Model/'  # Directory where models are saved
 ACCURACY_FILE = './FYP_Kubernetes/Accuracy_Summary/Isolation_Forest_accuracy_summary.csv'  # Path to accuracy summary file
 
